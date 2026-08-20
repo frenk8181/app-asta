@@ -1,0 +1,10 @@
+services:
+  - type: web
+    name: app-asta
+    runtime: python
+    buildCommand: pip install -r requirements.txt
+    startCommand: python server.py
+    plan: free
+    envVars:
+      - key: PYTHONUNBUFFERED
+        value: "1"
