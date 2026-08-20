@@ -2142,4 +2142,6 @@ if __name__ == "__main__":
     # pollano /state contemporaneamente senza mettersi in coda uno alla volta.
     # E' sicuro perche' tutte le operazioni di lettura/scrittura sui DB sono
     # protette dal lock globale.
-    app.run(host="0.0.0.0", port=5000, threaded=True)
+    port = int(os.environ.get("PORT", 5000))
+    app.run(host="0.0.0.0", port=port, threaded=True)
+
