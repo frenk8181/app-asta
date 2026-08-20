@@ -1,0 +1,172 @@
+{
+    "config": {
+        "initial_credits": 500,
+        "countdown_seconds": 5,
+        "teams": {
+            "Squadra A": 482,
+            "Squadra B": 500,
+            "Squadra C": 500,
+            "Squadra D": 500
+        },
+        "teams_initial": {
+            "Squadra A": 500,
+            "Squadra B": 500,
+            "Squadra C": 500,
+            "Squadra D": 500
+        },
+        "mode": "calciatori",
+        "price_bands": {
+            "P": {
+                "type": "auto"
+            },
+            "D": {
+                "type": "auto"
+            },
+            "C": {
+                "type": "auto"
+            },
+            "A": {
+                "type": "auto"
+            }
+        },
+        "requeue_unsold": true
+    },
+    "auction": {
+        "is_active": false,
+        "current_bid": 0,
+        "highest_bidder": null,
+        "total_bids_count": 0,
+        "expires_at": 1786802752.3348403,
+        "current_player_id": "40",
+        "round_id": 4,
+        "bluffs_used": [],
+        "participants": []
+    },
+    "history": [
+        {
+            "winner": "Nessuno (Invenduto)",
+            "price": 0,
+            "status": "Invenduto",
+            "ruolo": "P",
+            "player_name": "Carnesecchi",
+            "participants": []
+        },
+        {
+            "winner": "Nessuno (Invenduto)",
+            "price": 0,
+            "status": "Invenduto",
+            "ruolo": "P",
+            "player_name": "Di Gennaro",
+            "participants": []
+        },
+        {
+            "winner": "Nessuno (Invenduto)",
+            "price": 0,
+            "status": "Invenduto",
+            "ruolo": "P",
+            "player_name": "Vigorito",
+            "participants": []
+        },
+        {
+            "winner": "Squadra A",
+            "price": 12,
+            "status": "Assegnato",
+            "participants": [
+                "Squadra A"
+            ],
+            "ruolo": "P",
+            "player_name": "Lolic"
+        },
+        {
+            "winner": "Squadra A",
+            "price": 5,
+            "status": "Assegnato",
+            "participants": [
+                "Squadra A"
+            ],
+            "ruolo": "P",
+            "player_name": "Caprile"
+        },
+        {
+            "winner": "Nessuno (Invenduto)",
+            "price": 0,
+            "status": "Invenduto",
+            "participants": [
+                "Squadra A"
+            ],
+            "ruolo": "P",
+            "player_name": "Pizzignacco"
+        },
+        {
+            "winner": "Squadra A",
+            "price": 1,
+            "status": "Assegnato",
+            "participants": [
+                "Squadra A"
+            ],
+            "ruolo": "P",
+            "player_name": "Corvi"
+        }
+    ],
+    "call": {
+        "queue": [
+            "32",
+            "26",
+            "42",
+            "38",
+            "11",
+            "48",
+            "45",
+            "58",
+            "20",
+            "10",
+            "29",
+            "1",
+            "37",
+            "17",
+            "7",
+            "13",
+            "57",
+            "33",
+            "19",
+            "5",
+            "34",
+            "47",
+            "6",
+            "51",
+            "27",
+            "24",
+            "56",
+            "50",
+            "60",
+            "15",
+            "53",
+            "8",
+            "36",
+            "41",
+            "2",
+            "39",
+            "14",
+            "44",
+            "54",
+            "46",
+            "55",
+            "23",
+            "21",
+            "25",
+            "52",
+            "22",
+            "16",
+            "31",
+            "18",
+            "12",
+            "3",
+            "49"
+        ],
+        "filters": {
+            "ruolo": "P",
+            "fascia": null,
+            "ordine": "casuale"
+        }
+    }
+}

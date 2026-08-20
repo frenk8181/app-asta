@@ -1,0 +1,4462 @@
+{
+    "players": {
+        "1": {
+            "nome": "Svilar",
+            "squadra_reale": "Roma",
+            "ruolo": "P",
+            "quotazione": 18,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "2": {
+            "nome": "Martinez Jo.",
+            "squadra_reale": "Inter",
+            "ruolo": "P",
+            "quotazione": 17,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "3": {
+            "nome": "Butez",
+            "squadra_reale": "Como",
+            "ruolo": "P",
+            "quotazione": 16,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "4": {
+            "nome": "Carnesecchi",
+            "squadra_reale": "Atalanta",
+            "ruolo": "P",
+            "quotazione": 16,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "5": {
+            "nome": "Maignan",
+            "squadra_reale": "Milan",
+            "ruolo": "P",
+            "quotazione": 15,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "6": {
+            "nome": "De Gea",
+            "squadra_reale": "Fiorentina",
+            "ruolo": "P",
+            "quotazione": 13,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "7": {
+            "nome": "Meret",
+            "squadra_reale": "Napoli",
+            "ruolo": "P",
+            "quotazione": 11,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "8": {
+            "nome": "Skorupski",
+            "squadra_reale": "Bologna",
+            "ruolo": "P",
+            "quotazione": 10,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "9": {
+            "nome": "Caprile",
+            "squadra_reale": "Cagliari",
+            "ruolo": "P",
+            "quotazione": 9,
+            "chiamato": true,
+            "assegnato_a": "Squadra A",
+            "prezzo": 5
+        },
+        "10": {
+            "nome": "Di Gregorio",
+            "squadra_reale": "Juventus",
+            "ruolo": "P",
+            "quotazione": 9,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "11": {
+            "nome": "Mandas",
+            "squadra_reale": "Lazio",
+            "ruolo": "P",
+            "quotazione": 9,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "12": {
+            "nome": "Okoye",
+            "squadra_reale": "Udinese",
+            "ruolo": "P",
+            "quotazione": 9,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "13": {
+            "nome": "Bijlow",
+            "squadra_reale": "Genoa",
+            "ruolo": "P",
+            "quotazione": 8,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "14": {
+            "nome": "Falcone",
+            "squadra_reale": "Lecce",
+            "ruolo": "P",
+            "quotazione": 8,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "15": {
+            "nome": "Daffara",
+            "squadra_reale": "Parma",
+            "ruolo": "P",
+            "quotazione": 7,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "16": {
+            "nome": "Muric",
+            "squadra_reale": "Sassuolo",
+            "ruolo": "P",
+            "quotazione": 7,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "17": {
+            "nome": "Suzuki",
+            "squadra_reale": "Parma",
+            "ruolo": "P",
+            "quotazione": 7,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "18": {
+            "nome": "Perin",
+            "squadra_reale": "Juventus",
+            "ruolo": "P",
+            "quotazione": 6,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "19": {
+            "nome": "Stankovic F.",
+            "squadra_reale": "Venezia",
+            "ruolo": "P",
+            "quotazione": 6,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "20": {
+            "nome": "Milinkovic-Savic V.",
+            "squadra_reale": "Napoli",
+            "ruolo": "P",
+            "quotazione": 5,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "21": {
+            "nome": "Thiam",
+            "squadra_reale": "Monza",
+            "ruolo": "P",
+            "quotazione": 5,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "22": {
+            "nome": "Palmisani",
+            "squadra_reale": "Frosinone",
+            "ruolo": "P",
+            "quotazione": 4,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "23": {
+            "nome": "Desplanches",
+            "squadra_reale": "Frosinone",
+            "ruolo": "P",
+            "quotazione": 2,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "24": {
+            "nome": "Provedel",
+            "squadra_reale": "Inter",
+            "ruolo": "P",
+            "quotazione": 2,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "25": {
+            "nome": "Christensen O.",
+            "squadra_reale": "Fiorentina",
+            "ruolo": "P",
+            "quotazione": 1,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "26": {
+            "nome": "Ciocci",
+            "squadra_reale": "Cagliari",
+            "ruolo": "P",
+            "quotazione": 1,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "27": {
+            "nome": "Contini",
+            "squadra_reale": "Napoli",
+            "ruolo": "P",
+            "quotazione": 1,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "28": {
+            "nome": "Corvi",
+            "squadra_reale": "Parma",
+            "ruolo": "P",
+            "quotazione": 1,
+            "chiamato": true,
+            "assegnato_a": "Squadra A",
+            "prezzo": 1
+        },
+        "29": {
+            "nome": "De Marzi",
+            "squadra_reale": "Roma",
+            "ruolo": "P",
+            "quotazione": 1,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "30": {
+            "nome": "Di Gennaro",
+            "squadra_reale": "Inter",
+            "ruolo": "P",
+            "quotazione": 1,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "31": {
+            "nome": "Gollini",
+            "squadra_reale": "Roma",
+            "ruolo": "P",
+            "quotazione": 1,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "32": {
+            "nome": "Grandi",
+            "squadra_reale": "Venezia",
+            "ruolo": "P",
+            "quotazione": 1,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "33": {
+            "nome": "Happonen",
+            "squadra_reale": "Bologna",
+            "ruolo": "P",
+            "quotazione": 1,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "34": {
+            "nome": "Lezzerini",
+            "squadra_reale": "Fiorentina",
+            "ruolo": "P",
+            "quotazione": 1,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "35": {
+            "nome": "Lolic",
+            "squadra_reale": "Frosinone",
+            "ruolo": "P",
+            "quotazione": 1,
+            "chiamato": true,
+            "assegnato_a": "Squadra A",
+            "prezzo": 12
+        },
+        "36": {
+            "nome": "Mascardi",
+            "squadra_reale": "Torino",
+            "ruolo": "P",
+            "quotazione": 1,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "37": {
+            "nome": "Motta",
+            "squadra_reale": "Lazio",
+            "ruolo": "P",
+            "quotazione": 1,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "38": {
+            "nome": "Padelli",
+            "squadra_reale": "Udinese",
+            "ruolo": "P",
+            "quotazione": 1,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "39": {
+            "nome": "Paleari",
+            "squadra_reale": "Torino",
+            "ruolo": "P",
+            "quotazione": 1,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "40": {
+            "nome": "Pessina Mas.",
+            "squadra_reale": "Bologna",
+            "ruolo": "P",
+            "quotazione": 1,
+            "chiamato": true,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "41": {
+            "nome": "Piana",
+            "squadra_reale": "Udinese",
+            "ruolo": "P",
+            "quotazione": 1,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "42": {
+            "nome": "Pinsoglio",
+            "squadra_reale": "Juventus",
+            "ruolo": "P",
+            "quotazione": 1,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "43": {
+            "nome": "Pizzignacco",
+            "squadra_reale": "Monza",
+            "ruolo": "P",
+            "quotazione": 1,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "44": {
+            "nome": "Pozzi",
+            "squadra_reale": "Venezia",
+            "ruolo": "P",
+            "quotazione": 1,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "45": {
+            "nome": "Renzetti",
+            "squadra_reale": "Lazio",
+            "ruolo": "P",
+            "quotazione": 1,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "46": {
+            "nome": "Russo A.",
+            "squadra_reale": "Sassuolo",
+            "ruolo": "P",
+            "quotazione": 1,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "47": {
+            "nome": "Samooja",
+            "squadra_reale": "Lecce",
+            "ruolo": "P",
+            "quotazione": 1,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "48": {
+            "nome": "Satalino",
+            "squadra_reale": "Sassuolo",
+            "ruolo": "P",
+            "quotazione": 1,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "49": {
+            "nome": "Sherri",
+            "squadra_reale": "Cagliari",
+            "ruolo": "P",
+            "quotazione": 1,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "50": {
+            "nome": "Siviero",
+            "squadra_reale": "Torino",
+            "ruolo": "P",
+            "quotazione": 1,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "51": {
+            "nome": "Sommariva",
+            "squadra_reale": "Genoa",
+            "ruolo": "P",
+            "quotazione": 1,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "52": {
+            "nome": "Sportiello",
+            "squadra_reale": "Atalanta",
+            "ruolo": "P",
+            "quotazione": 1,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "53": {
+            "nome": "Stolz",
+            "squadra_reale": "Genoa",
+            "ruolo": "P",
+            "quotazione": 1,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "54": {
+            "nome": "Strajnar",
+            "squadra_reale": "Monza",
+            "ruolo": "P",
+            "quotazione": 1,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "55": {
+            "nome": "Terracciano",
+            "squadra_reale": "Milan",
+            "ruolo": "P",
+            "quotazione": 1,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "56": {
+            "nome": "Tornqvist",
+            "squadra_reale": "Como",
+            "ruolo": "P",
+            "quotazione": 1,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "57": {
+            "nome": "Torriani",
+            "squadra_reale": "Milan",
+            "ruolo": "P",
+            "quotazione": 1,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "58": {
+            "nome": "Turati",
+            "squadra_reale": "Sassuolo",
+            "ruolo": "P",
+            "quotazione": 1,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "59": {
+            "nome": "Vigorito",
+            "squadra_reale": "Como",
+            "ruolo": "P",
+            "quotazione": 1,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "60": {
+            "nome": "Vismara",
+            "squadra_reale": "Atalanta",
+            "ruolo": "P",
+            "quotazione": 1,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "61": {
+            "nome": "Dimarco",
+            "squadra_reale": "Inter",
+            "ruolo": "D",
+            "quotazione": 32,
+            "chiamato": true,
+            "assegnato_a": "Squadra A",
+            "prezzo": 5
+        },
+        "62": {
+            "nome": "Wesley",
+            "squadra_reale": "Roma",
+            "ruolo": "D",
+            "quotazione": 17,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "63": {
+            "nome": "Akanji",
+            "squadra_reale": "Inter",
+            "ruolo": "D",
+            "quotazione": 16,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "64": {
+            "nome": "Bremer",
+            "squadra_reale": "Juventus",
+            "ruolo": "D",
+            "quotazione": 15,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "65": {
+            "nome": "Mancini",
+            "squadra_reale": "Roma",
+            "ruolo": "D",
+            "quotazione": 15,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "66": {
+            "nome": "Bastoni",
+            "squadra_reale": "Inter",
+            "ruolo": "D",
+            "quotazione": 14,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "67": {
+            "nome": "Pavlovic",
+            "squadra_reale": "Milan",
+            "ruolo": "D",
+            "quotazione": 14,
+            "chiamato": true,
+            "assegnato_a": "Squadra A",
+            "prezzo": 1
+        },
+        "68": {
+            "nome": "Rrahmani",
+            "squadra_reale": "Napoli",
+            "ruolo": "D",
+            "quotazione": 14,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "69": {
+            "nome": "Kalulu",
+            "squadra_reale": "Juventus",
+            "ruolo": "D",
+            "quotazione": 13,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "70": {
+            "nome": "N'Dicka",
+            "squadra_reale": "Roma",
+            "ruolo": "D",
+            "quotazione": 13,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "71": {
+            "nome": "Solet",
+            "squadra_reale": "Udinese",
+            "ruolo": "D",
+            "quotazione": 13,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "72": {
+            "nome": "Di Lorenzo",
+            "squadra_reale": "Napoli",
+            "ruolo": "D",
+            "quotazione": 12,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "73": {
+            "nome": "Gila",
+            "squadra_reale": "Milan",
+            "ruolo": "D",
+            "quotazione": 12,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "74": {
+            "nome": "Stones",
+            "squadra_reale": "Inter",
+            "ruolo": "D",
+            "quotazione": 12,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "75": {
+            "nome": "Bisseck",
+            "squadra_reale": "Inter",
+            "ruolo": "D",
+            "quotazione": 11,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "76": {
+            "nome": "Ostigard",
+            "squadra_reale": "Genoa",
+            "ruolo": "D",
+            "quotazione": 11,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "77": {
+            "nome": "Dod\u00f2",
+            "squadra_reale": "Fiorentina",
+            "ruolo": "D",
+            "quotazione": 10,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "78": {
+            "nome": "Hermoso",
+            "squadra_reale": "Roma",
+            "ruolo": "D",
+            "quotazione": 10,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "79": {
+            "nome": "Ramon",
+            "squadra_reale": "Como",
+            "ruolo": "D",
+            "quotazione": 10,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "80": {
+            "nome": "Scalvini",
+            "squadra_reale": "Atalanta",
+            "ruolo": "D",
+            "quotazione": 10,
+            "chiamato": true,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "81": {
+            "nome": "Cambiaso",
+            "squadra_reale": "Juventus",
+            "ruolo": "D",
+            "quotazione": 9,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "82": {
+            "nome": "Vasquez",
+            "squadra_reale": "Genoa",
+            "ruolo": "D",
+            "quotazione": 9,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "83": {
+            "nome": "Bartesaghi",
+            "squadra_reale": "Milan",
+            "ruolo": "D",
+            "quotazione": 8,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "84": {
+            "nome": "Celik",
+            "squadra_reale": "Juventus",
+            "ruolo": "D",
+            "quotazione": 8,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "85": {
+            "nome": "Couto",
+            "squadra_reale": "Como",
+            "ruolo": "D",
+            "quotazione": 8,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "86": {
+            "nome": "Delprato",
+            "squadra_reale": "Parma",
+            "ruolo": "D",
+            "quotazione": 8,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "87": {
+            "nome": "Dragusin",
+            "squadra_reale": "Fiorentina",
+            "ruolo": "D",
+            "quotazione": 8,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "88": {
+            "nome": "Hien",
+            "squadra_reale": "Atalanta",
+            "ruolo": "D",
+            "quotazione": 8,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "89": {
+            "nome": "Jimenez A.",
+            "squadra_reale": "Fiorentina",
+            "ruolo": "D",
+            "quotazione": 8,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "90": {
+            "nome": "Koulierakis",
+            "squadra_reale": "Roma",
+            "ruolo": "D",
+            "quotazione": 8,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "91": {
+            "nome": "Lucum\u00ec",
+            "squadra_reale": "Bologna",
+            "ruolo": "D",
+            "quotazione": 8,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "92": {
+            "nome": "Mina",
+            "squadra_reale": "Cagliari",
+            "ruolo": "D",
+            "quotazione": 8,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "93": {
+            "nome": "Miranda J.",
+            "squadra_reale": "Bologna",
+            "ruolo": "D",
+            "quotazione": 8,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "94": {
+            "nome": "Norton-Cuffy",
+            "squadra_reale": "Genoa",
+            "ruolo": "D",
+            "quotazione": 8,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "95": {
+            "nome": "Spinazzola",
+            "squadra_reale": "Napoli",
+            "ruolo": "D",
+            "quotazione": 8,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "96": {
+            "nome": "Valeri",
+            "squadra_reale": "Parma",
+            "ruolo": "D",
+            "quotazione": 8,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "97": {
+            "nome": "Vojvoda",
+            "squadra_reale": "Udinese",
+            "ruolo": "D",
+            "quotazione": 8,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "98": {
+            "nome": "Zappacosta",
+            "squadra_reale": "Atalanta",
+            "ruolo": "D",
+            "quotazione": 8,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "99": {
+            "nome": "Buongiorno",
+            "squadra_reale": "Napoli",
+            "ruolo": "D",
+            "quotazione": 7,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "100": {
+            "nome": "Carlos Augusto",
+            "squadra_reale": "Inter",
+            "ruolo": "D",
+            "quotazione": 7,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "101": {
+            "nome": "Coco",
+            "squadra_reale": "Torino",
+            "ruolo": "D",
+            "quotazione": 7,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "102": {
+            "nome": "Djimsiti",
+            "squadra_reale": "Atalanta",
+            "ruolo": "D",
+            "quotazione": 7,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "103": {
+            "nome": "Doekhi",
+            "squadra_reale": "Lazio",
+            "ruolo": "D",
+            "quotazione": 7,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "104": {
+            "nome": "Gabbia",
+            "squadra_reale": "Milan",
+            "ruolo": "D",
+            "quotazione": 7,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "105": {
+            "nome": "Idzes",
+            "squadra_reale": "Sassuolo",
+            "ruolo": "D",
+            "quotazione": 7,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "106": {
+            "nome": "Ismajli",
+            "squadra_reale": "Torino",
+            "ruolo": "D",
+            "quotazione": 7,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "107": {
+            "nome": "Kaiki",
+            "squadra_reale": "Como",
+            "ruolo": "D",
+            "quotazione": 7,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "108": {
+            "nome": "Kristensen T.",
+            "squadra_reale": "Udinese",
+            "ruolo": "D",
+            "quotazione": 7,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "109": {
+            "nome": "Obert",
+            "squadra_reale": "Cagliari",
+            "ruolo": "D",
+            "quotazione": 7,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "110": {
+            "nome": "Romagnoli",
+            "squadra_reale": "Lazio",
+            "ruolo": "D",
+            "quotazione": 7,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "111": {
+            "nome": "Tiago Gabriel",
+            "squadra_reale": "Lecce",
+            "ruolo": "D",
+            "quotazione": 7,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "112": {
+            "nome": "Tomori",
+            "squadra_reale": "Milan",
+            "ruolo": "D",
+            "quotazione": 7,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "113": {
+            "nome": "Ahanor",
+            "squadra_reale": "Atalanta",
+            "ruolo": "D",
+            "quotazione": 6,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "114": {
+            "nome": "Bella-Kotchap",
+            "squadra_reale": "Venezia",
+            "ruolo": "D",
+            "quotazione": 6,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "115": {
+            "nome": "Bellanova",
+            "squadra_reale": "Atalanta",
+            "ruolo": "D",
+            "quotazione": 6,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "116": {
+            "nome": "Bernasconi",
+            "squadra_reale": "Atalanta",
+            "ruolo": "D",
+            "quotazione": 6,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "117": {
+            "nome": "Beukema",
+            "squadra_reale": "Napoli",
+            "ruolo": "D",
+            "quotazione": 6,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "118": {
+            "nome": "Circati",
+            "squadra_reale": "Parma",
+            "ruolo": "D",
+            "quotazione": 6,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "119": {
+            "nome": "Comuzzo",
+            "squadra_reale": "Torino",
+            "ruolo": "D",
+            "quotazione": 6,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "120": {
+            "nome": "Gallo",
+            "squadra_reale": "Lecce",
+            "ruolo": "D",
+            "quotazione": 6,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "121": {
+            "nome": "Heggem",
+            "squadra_reale": "Bologna",
+            "ruolo": "D",
+            "quotazione": 6,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "122": {
+            "nome": "Kamara H.",
+            "squadra_reale": "Udinese",
+            "ruolo": "D",
+            "quotazione": 6,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "123": {
+            "nome": "Mangas",
+            "squadra_reale": "Monza",
+            "ruolo": "D",
+            "quotazione": 6,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "124": {
+            "nome": "Marcandalli",
+            "squadra_reale": "Genoa",
+            "ruolo": "D",
+            "quotazione": 6,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "125": {
+            "nome": "Marusic",
+            "squadra_reale": "Lazio",
+            "ruolo": "D",
+            "quotazione": 6,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "126": {
+            "nome": "Monterisi",
+            "squadra_reale": "Frosinone",
+            "ruolo": "D",
+            "quotazione": 6,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "127": {
+            "nome": "Pavard",
+            "squadra_reale": "Inter",
+            "ruolo": "D",
+            "quotazione": 6,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "128": {
+            "nome": "Tavares N.",
+            "squadra_reale": "Lazio",
+            "ruolo": "D",
+            "quotazione": 6,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "129": {
+            "nome": "Valdepenas",
+            "squadra_reale": "Fiorentina",
+            "ruolo": "D",
+            "quotazione": 6,
+            "chiamato": true,
+            "assegnato_a": "Squadra A",
+            "prezzo": 5
+        },
+        "130": {
+            "nome": "Valle",
+            "squadra_reale": "Como",
+            "ruolo": "D",
+            "quotazione": 6,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "131": {
+            "nome": "Viery",
+            "squadra_reale": "Fiorentina",
+            "ruolo": "D",
+            "quotazione": 6,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "132": {
+            "nome": "Zortea",
+            "squadra_reale": "Bologna",
+            "ruolo": "D",
+            "quotazione": 6,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "133": {
+            "nome": "Bracaglia",
+            "squadra_reale": "Frosinone",
+            "ruolo": "D",
+            "quotazione": 5,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "134": {
+            "nome": "Gaspar K.",
+            "squadra_reale": "Lecce",
+            "ruolo": "D",
+            "quotazione": 5,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "135": {
+            "nome": "Haps",
+            "squadra_reale": "Venezia",
+            "ruolo": "D",
+            "quotazione": 5,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "136": {
+            "nome": "Holm",
+            "squadra_reale": "Bologna",
+            "ruolo": "D",
+            "quotazione": 5,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "137": {
+            "nome": "Kelly L.",
+            "squadra_reale": "Juventus",
+            "ruolo": "D",
+            "quotazione": 5,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "138": {
+            "nome": "Kempf",
+            "squadra_reale": "Como",
+            "ruolo": "D",
+            "quotazione": 5,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "139": {
+            "nome": "Kofler",
+            "squadra_reale": "Cagliari",
+            "ruolo": "D",
+            "quotazione": 5,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "140": {
+            "nome": "Kolasinac",
+            "squadra_reale": "Atalanta",
+            "ruolo": "D",
+            "quotazione": 5,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "141": {
+            "nome": "Martin",
+            "squadra_reale": "Genoa",
+            "ruolo": "D",
+            "quotazione": 5,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "142": {
+            "nome": "Moreno M.",
+            "squadra_reale": "Venezia",
+            "ruolo": "D",
+            "quotazione": 5,
+            "chiamato": true,
+            "assegnato_a": "Squadra A",
+            "prezzo": 200
+        },
+        "143": {
+            "nome": "Olivera",
+            "squadra_reale": "Napoli",
+            "ruolo": "D",
+            "quotazione": 5,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "144": {
+            "nome": "Oyono A.",
+            "squadra_reale": "Frosinone",
+            "ruolo": "D",
+            "quotazione": 5,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "145": {
+            "nome": "Parisi",
+            "squadra_reale": "Fiorentina",
+            "ruolo": "D",
+            "quotazione": 5,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "146": {
+            "nome": "Pedersen",
+            "squadra_reale": "Torino",
+            "ruolo": "D",
+            "quotazione": 5,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "147": {
+            "nome": "Pedraza",
+            "squadra_reale": "Lazio",
+            "ruolo": "D",
+            "quotazione": 5,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "148": {
+            "nome": "Rensch",
+            "squadra_reale": "Roma",
+            "ruolo": "D",
+            "quotazione": 5,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "149": {
+            "nome": "Veiga D.",
+            "squadra_reale": "Lecce",
+            "ruolo": "D",
+            "quotazione": 5,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "150": {
+            "nome": "Vitik",
+            "squadra_reale": "Bologna",
+            "ruolo": "D",
+            "quotazione": 5,
+            "chiamato": true,
+            "assegnato_a": "Squadra A",
+            "prezzo": 1
+        },
+        "151": {
+            "nome": "Z\u00e8 Pedro",
+            "squadra_reale": "Cagliari",
+            "ruolo": "D",
+            "quotazione": 5,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "152": {
+            "nome": "Arizala",
+            "squadra_reale": "Udinese",
+            "ruolo": "D",
+            "quotazione": 4,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "153": {
+            "nome": "Bertola",
+            "squadra_reale": "Udinese",
+            "ruolo": "D",
+            "quotazione": 4,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "154": {
+            "nome": "Birindelli",
+            "squadra_reale": "Monza",
+            "ruolo": "D",
+            "quotazione": 4,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "155": {
+            "nome": "Calvani",
+            "squadra_reale": "Frosinone",
+            "ruolo": "D",
+            "quotazione": 4,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "156": {
+            "nome": "Comert",
+            "squadra_reale": "Torino",
+            "ruolo": "D",
+            "quotazione": 4,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "157": {
+            "nome": "Correia T.",
+            "squadra_reale": "Venezia",
+            "ruolo": "D",
+            "quotazione": 4,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "158": {
+            "nome": "Delli Carri",
+            "squadra_reale": "Monza",
+            "ruolo": "D",
+            "quotazione": 4,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "159": {
+            "nome": "Doig",
+            "squadra_reale": "Sassuolo",
+            "ruolo": "D",
+            "quotazione": 4,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "160": {
+            "nome": "Gatti",
+            "squadra_reale": "Juventus",
+            "ruolo": "D",
+            "quotazione": 4,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "161": {
+            "nome": "Ghilardi",
+            "squadra_reale": "Roma",
+            "ruolo": "D",
+            "quotazione": 4,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "162": {
+            "nome": "Halhal",
+            "squadra_reale": "Venezia",
+            "ruolo": "D",
+            "quotazione": 4,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "163": {
+            "nome": "Kabasele",
+            "squadra_reale": "Udinese",
+            "ruolo": "D",
+            "quotazione": 4,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "164": {
+            "nome": "Lucchesi",
+            "squadra_reale": "Monza",
+            "ruolo": "D",
+            "quotazione": 4,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "165": {
+            "nome": "Mitaj",
+            "squadra_reale": "Genoa",
+            "ruolo": "D",
+            "quotazione": 4,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "166": {
+            "nome": "Pongracic",
+            "squadra_reale": "Fiorentina",
+            "ruolo": "D",
+            "quotazione": 4,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "167": {
+            "nome": "Siebert",
+            "squadra_reale": "Lecce",
+            "ruolo": "D",
+            "quotazione": 4,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "168": {
+            "nome": "Smolcic I.",
+            "squadra_reale": "Como",
+            "ruolo": "D",
+            "quotazione": 4,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "169": {
+            "nome": "Valenti",
+            "squadra_reale": "Parma",
+            "ruolo": "D",
+            "quotazione": 4,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "170": {
+            "nome": "Walukiewicz",
+            "squadra_reale": "Sassuolo",
+            "ruolo": "D",
+            "quotazione": 4,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "171": {
+            "nome": "Zanoli",
+            "squadra_reale": "Udinese",
+            "ruolo": "D",
+            "quotazione": 4,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "172": {
+            "nome": "Zappa",
+            "squadra_reale": "Cagliari",
+            "ruolo": "D",
+            "quotazione": 4,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "173": {
+            "nome": "Akpoguma",
+            "squadra_reale": "Frosinone",
+            "ruolo": "D",
+            "quotazione": 3,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "174": {
+            "nome": "Athekame",
+            "squadra_reale": "Milan",
+            "ruolo": "D",
+            "quotazione": 3,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "175": {
+            "nome": "Britschgi",
+            "squadra_reale": "Parma",
+            "ruolo": "D",
+            "quotazione": 3,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "176": {
+            "nome": "Cand\u00e8",
+            "squadra_reale": "Sassuolo",
+            "ruolo": "D",
+            "quotazione": 3,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "177": {
+            "nome": "Carboni A.",
+            "squadra_reale": "Monza",
+            "ruolo": "D",
+            "quotazione": 3,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "178": {
+            "nome": "Casale",
+            "squadra_reale": "Bologna",
+            "ruolo": "D",
+            "quotazione": 3,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "179": {
+            "nome": "Cittadini",
+            "squadra_reale": "Frosinone",
+            "ruolo": "D",
+            "quotazione": 3,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "180": {
+            "nome": "De Winter",
+            "squadra_reale": "Milan",
+            "ruolo": "D",
+            "quotazione": 3,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "181": {
+            "nome": "Estupinan",
+            "squadra_reale": "Milan",
+            "ruolo": "D",
+            "quotazione": 3,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "182": {
+            "nome": "Floriani Mussolini",
+            "squadra_reale": "Lazio",
+            "ruolo": "D",
+            "quotazione": 3,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "183": {
+            "nome": "Hainaut",
+            "squadra_reale": "Venezia",
+            "ruolo": "D",
+            "quotazione": 3,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "184": {
+            "nome": "Idrissi R.",
+            "squadra_reale": "Cagliari",
+            "ruolo": "D",
+            "quotazione": 3,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "185": {
+            "nome": "Joao Mario",
+            "squadra_reale": "Fiorentina",
+            "ruolo": "D",
+            "quotazione": 3,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "186": {
+            "nome": "Kossounou",
+            "squadra_reale": "Atalanta",
+            "ruolo": "D",
+            "quotazione": 3,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "187": {
+            "nome": "Kouadio",
+            "squadra_reale": "Monza",
+            "ruolo": "D",
+            "quotazione": 3,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "188": {
+            "nome": "Provstgaard",
+            "squadra_reale": "Lazio",
+            "ruolo": "D",
+            "quotazione": 3,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "189": {
+            "nome": "Ranieri L.",
+            "squadra_reale": "Fiorentina",
+            "ruolo": "D",
+            "quotazione": 3,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "190": {
+            "nome": "Rodriguez Ju.",
+            "squadra_reale": "Cagliari",
+            "ruolo": "D",
+            "quotazione": 3,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "191": {
+            "nome": "Schingtienne",
+            "squadra_reale": "Venezia",
+            "ruolo": "D",
+            "quotazione": 3,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "192": {
+            "nome": "Sverko",
+            "squadra_reale": "Venezia",
+            "ruolo": "D",
+            "quotazione": 3,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "193": {
+            "nome": "Troilo",
+            "squadra_reale": "Parma",
+            "ruolo": "D",
+            "quotazione": 3,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "194": {
+            "nome": "Alhassane",
+            "squadra_reale": "Bologna",
+            "ruolo": "D",
+            "quotazione": 2,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "195": {
+            "nome": "Biraghi",
+            "squadra_reale": "Torino",
+            "ruolo": "D",
+            "quotazione": 2,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "196": {
+            "nome": "Diawara S.",
+            "squadra_reale": "Milan",
+            "ruolo": "D",
+            "quotazione": 2,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "197": {
+            "nome": "Ebosse",
+            "squadra_reale": "Udinese",
+            "ruolo": "D",
+            "quotazione": 2,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "198": {
+            "nome": "Franjic",
+            "squadra_reale": "Venezia",
+            "ruolo": "D",
+            "quotazione": 2,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "199": {
+            "nome": "Helland",
+            "squadra_reale": "Bologna",
+            "ruolo": "D",
+            "quotazione": 2,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "200": {
+            "nome": "Jean",
+            "squadra_reale": "Lecce",
+            "ruolo": "D",
+            "quotazione": 2,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "201": {
+            "nome": "Lazzari",
+            "squadra_reale": "Lazio",
+            "ruolo": "D",
+            "quotazione": 2,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "202": {
+            "nome": "Marin R.",
+            "squadra_reale": "Napoli",
+            "ruolo": "D",
+            "quotazione": 2,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "203": {
+            "nome": "Otoa",
+            "squadra_reale": "Genoa",
+            "ruolo": "D",
+            "quotazione": 2,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "204": {
+            "nome": "Palma",
+            "squadra_reale": "Udinese",
+            "ruolo": "D",
+            "quotazione": 2,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "205": {
+            "nome": "Pellegrini Lu.",
+            "squadra_reale": "Lazio",
+            "ruolo": "D",
+            "quotazione": 2,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "206": {
+            "nome": "Puczka",
+            "squadra_reale": "Genoa",
+            "ruolo": "D",
+            "quotazione": 2,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "207": {
+            "nome": "Sabelli",
+            "squadra_reale": "Genoa",
+            "ruolo": "D",
+            "quotazione": 2,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "208": {
+            "nome": "Sagrado",
+            "squadra_reale": "Venezia",
+            "ruolo": "D",
+            "quotazione": 2,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "209": {
+            "nome": "Van Der Brempt",
+            "squadra_reale": "Como",
+            "ruolo": "D",
+            "quotazione": 2,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "210": {
+            "nome": "Abankwah",
+            "squadra_reale": "Udinese",
+            "ruolo": "D",
+            "quotazione": 1,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "211": {
+            "nome": "Amey",
+            "squadra_reale": "Frosinone",
+            "ruolo": "D",
+            "quotazione": 1,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "212": {
+            "nome": "Antov",
+            "squadra_reale": "Monza",
+            "ruolo": "D",
+            "quotazione": 1,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "213": {
+            "nome": "Bakoune",
+            "squadra_reale": "Monza",
+            "ruolo": "D",
+            "quotazione": 1,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "214": {
+            "nome": "Cabal",
+            "squadra_reale": "Juventus",
+            "ruolo": "D",
+            "quotazione": 1,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "215": {
+            "nome": "Carboni F.",
+            "squadra_reale": "Parma",
+            "ruolo": "D",
+            "quotazione": 1,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "216": {
+            "nome": "Corrado",
+            "squadra_reale": "Frosinone",
+            "ruolo": "D",
+            "quotazione": 1,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "217": {
+            "nome": "Cuenca A.",
+            "squadra_reale": "Como",
+            "ruolo": "D",
+            "quotazione": 1,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "218": {
+            "nome": "De Silvestri",
+            "squadra_reale": "Bologna",
+            "ruolo": "D",
+            "quotazione": 1,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "219": {
+            "nome": "Gelli J.",
+            "squadra_reale": "Frosinone",
+            "ruolo": "D",
+            "quotazione": 1,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "220": {
+            "nome": "Goldaniga",
+            "squadra_reale": "Como",
+            "ruolo": "D",
+            "quotazione": 1,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "221": {
+            "nome": "Gomes",
+            "squadra_reale": "Venezia",
+            "ruolo": "D",
+            "quotazione": 1,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "222": {
+            "nome": "Marianucci",
+            "squadra_reale": "Napoli",
+            "ruolo": "D",
+            "quotazione": 1,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "223": {
+            "nome": "Matturro",
+            "squadra_reale": "Genoa",
+            "ruolo": "D",
+            "quotazione": 1,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "224": {
+            "nome": "Mazzocchi",
+            "squadra_reale": "Napoli",
+            "ruolo": "D",
+            "quotazione": 1,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "225": {
+            "nome": "Missori",
+            "squadra_reale": "Sassuolo",
+            "ruolo": "D",
+            "quotazione": 1,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "226": {
+            "nome": "Mlacic",
+            "squadra_reale": "Udinese",
+            "ruolo": "D",
+            "quotazione": 1,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "227": {
+            "nome": "Ndaba",
+            "squadra_reale": "Lecce",
+            "ruolo": "D",
+            "quotazione": 1,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "228": {
+            "nome": "Ndiaye",
+            "squadra_reale": "Parma",
+            "ruolo": "D",
+            "quotazione": 1,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "229": {
+            "nome": "Oyono J.",
+            "squadra_reale": "Frosinone",
+            "ruolo": "D",
+            "quotazione": 1,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "230": {
+            "nome": "Patric",
+            "squadra_reale": "Lazio",
+            "ruolo": "D",
+            "quotazione": 1,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "231": {
+            "nome": "Perez M.",
+            "squadra_reale": "Lecce",
+            "ruolo": "D",
+            "quotazione": 1,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "232": {
+            "nome": "Pieragnolo",
+            "squadra_reale": "Sassuolo",
+            "ruolo": "D",
+            "quotazione": 1,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "233": {
+            "nome": "Raterink",
+            "squadra_reale": "Cagliari",
+            "ruolo": "D",
+            "quotazione": 1,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "234": {
+            "nome": "Rugani",
+            "squadra_reale": "Juventus",
+            "ruolo": "D",
+            "quotazione": 1,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "235": {
+            "nome": "Ziolkowski",
+            "squadra_reale": "Roma",
+            "ruolo": "D",
+            "quotazione": 1,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "236": {
+            "nome": "Paz N.",
+            "squadra_reale": "Como",
+            "ruolo": "C",
+            "quotazione": 30,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "237": {
+            "nome": "McTominay",
+            "squadra_reale": "Napoli",
+            "ruolo": "C",
+            "quotazione": 28,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "238": {
+            "nome": "Calhanoglu",
+            "squadra_reale": "Inter",
+            "ruolo": "C",
+            "quotazione": 27,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "239": {
+            "nome": "Orsolini",
+            "squadra_reale": "Bologna",
+            "ruolo": "C",
+            "quotazione": 26,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "240": {
+            "nome": "Pulisic",
+            "squadra_reale": "Milan",
+            "ruolo": "C",
+            "quotazione": 25,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "241": {
+            "nome": "Rabiot",
+            "squadra_reale": "Milan",
+            "ruolo": "C",
+            "quotazione": 22,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "242": {
+            "nome": "Baturina",
+            "squadra_reale": "Como",
+            "ruolo": "C",
+            "quotazione": 19,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "243": {
+            "nome": "Da Cunha",
+            "squadra_reale": "Como",
+            "ruolo": "C",
+            "quotazione": 18,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "244": {
+            "nome": "Zaniolo",
+            "squadra_reale": "Udinese",
+            "ruolo": "C",
+            "quotazione": 18,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "245": {
+            "nome": "Atta",
+            "squadra_reale": "Fiorentina",
+            "ruolo": "C",
+            "quotazione": 17,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "246": {
+            "nome": "Barella",
+            "squadra_reale": "Inter",
+            "ruolo": "C",
+            "quotazione": 17,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "247": {
+            "nome": "McKennie",
+            "squadra_reale": "Juventus",
+            "ruolo": "C",
+            "quotazione": 17,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "248": {
+            "nome": "Zaccagni",
+            "squadra_reale": "Lazio",
+            "ruolo": "C",
+            "quotazione": 16,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "249": {
+            "nome": "De Bruyne",
+            "squadra_reale": "Napoli",
+            "ruolo": "C",
+            "quotazione": 15,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "250": {
+            "nome": "Vlasic",
+            "squadra_reale": "Torino",
+            "ruolo": "C",
+            "quotazione": 14,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "251": {
+            "nome": "Gudmundsson A.",
+            "squadra_reale": "Fiorentina",
+            "ruolo": "C",
+            "quotazione": 13,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "252": {
+            "nome": "Taylor K.",
+            "squadra_reale": "Lazio",
+            "ruolo": "C",
+            "quotazione": 13,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "253": {
+            "nome": "Alajbegovic",
+            "squadra_reale": "Juventus",
+            "ruolo": "C",
+            "quotazione": 12,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "254": {
+            "nome": "Conceicao",
+            "squadra_reale": "Juventus",
+            "ruolo": "C",
+            "quotazione": 12,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "255": {
+            "nome": "Ederson D.S.",
+            "squadra_reale": "Atalanta",
+            "ruolo": "C",
+            "quotazione": 12,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "256": {
+            "nome": "Mastantuono",
+            "squadra_reale": "Fiorentina",
+            "ruolo": "C",
+            "quotazione": 12,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "257": {
+            "nome": "Modric",
+            "squadra_reale": "Milan",
+            "ruolo": "C",
+            "quotazione": 12,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "258": {
+            "nome": "Rodriguez Je.",
+            "squadra_reale": "Como",
+            "ruolo": "C",
+            "quotazione": 12,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "259": {
+            "nome": "Samardzic",
+            "squadra_reale": "Atalanta",
+            "ruolo": "C",
+            "quotazione": 12,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "260": {
+            "nome": "Baldanzi",
+            "squadra_reale": "Genoa",
+            "ruolo": "C",
+            "quotazione": 11,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "261": {
+            "nome": "Rowe",
+            "squadra_reale": "Bologna",
+            "ruolo": "C",
+            "quotazione": 11,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "262": {
+            "nome": "Zambo Anguissa",
+            "squadra_reale": "Napoli",
+            "ruolo": "C",
+            "quotazione": 11,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "263": {
+            "nome": "Casadei",
+            "squadra_reale": "Torino",
+            "ruolo": "C",
+            "quotazione": 10,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "264": {
+            "nome": "Ekkelenkamp",
+            "squadra_reale": "Udinese",
+            "ruolo": "C",
+            "quotazione": 10,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "265": {
+            "nome": "Kon\u00e8 M.",
+            "squadra_reale": "Roma",
+            "ruolo": "C",
+            "quotazione": 10,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "266": {
+            "nome": "Perrone",
+            "squadra_reale": "Como",
+            "ruolo": "C",
+            "quotazione": 10,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "267": {
+            "nome": "Politano",
+            "squadra_reale": "Napoli",
+            "ruolo": "C",
+            "quotazione": 10,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "268": {
+            "nome": "Saelemaekers",
+            "squadra_reale": "Milan",
+            "ruolo": "C",
+            "quotazione": 10,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "269": {
+            "nome": "Thorstvedt",
+            "squadra_reale": "Sassuolo",
+            "ruolo": "C",
+            "quotazione": 10,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "270": {
+            "nome": "Thuram K.",
+            "squadra_reale": "Juventus",
+            "ruolo": "C",
+            "quotazione": 10,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "271": {
+            "nome": "Zielinski",
+            "squadra_reale": "Inter",
+            "ruolo": "C",
+            "quotazione": 10,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "272": {
+            "nome": "Bernardeschi",
+            "squadra_reale": "Bologna",
+            "ruolo": "C",
+            "quotazione": 9,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "273": {
+            "nome": "Cancellieri",
+            "squadra_reale": "Lazio",
+            "ruolo": "C",
+            "quotazione": 9,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "274": {
+            "nome": "Isaksen",
+            "squadra_reale": "Lazio",
+            "ruolo": "C",
+            "quotazione": 9,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "275": {
+            "nome": "Kon\u00e8 I.",
+            "squadra_reale": "Sassuolo",
+            "ruolo": "C",
+            "quotazione": 9,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "276": {
+            "nome": "Mandragora",
+            "squadra_reale": "Fiorentina",
+            "ruolo": "C",
+            "quotazione": 9,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "277": {
+            "nome": "Pasalic",
+            "squadra_reale": "Atalanta",
+            "ruolo": "C",
+            "quotazione": 9,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "278": {
+            "nome": "Cambiaghi",
+            "squadra_reale": "Bologna",
+            "ruolo": "C",
+            "quotazione": 8,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "279": {
+            "nome": "Colpani",
+            "squadra_reale": "Monza",
+            "ruolo": "C",
+            "quotazione": 8,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "280": {
+            "nome": "Cristante",
+            "squadra_reale": "Roma",
+            "ruolo": "C",
+            "quotazione": 8,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "281": {
+            "nome": "Diouf",
+            "squadra_reale": "Inter",
+            "ruolo": "C",
+            "quotazione": 8,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "282": {
+            "nome": "Fagioli",
+            "squadra_reale": "Fiorentina",
+            "ruolo": "C",
+            "quotazione": 8,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "283": {
+            "nome": "Locatelli",
+            "squadra_reale": "Juventus",
+            "ruolo": "C",
+            "quotazione": 8,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "284": {
+            "nome": "Ndour",
+            "squadra_reale": "Fiorentina",
+            "ruolo": "C",
+            "quotazione": 8,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "285": {
+            "nome": "Odgaard",
+            "squadra_reale": "Bologna",
+            "ruolo": "C",
+            "quotazione": 8,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "286": {
+            "nome": "Sucic P.",
+            "squadra_reale": "Inter",
+            "ruolo": "C",
+            "quotazione": 8,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "287": {
+            "nome": "Vergara",
+            "squadra_reale": "Napoli",
+            "ruolo": "C",
+            "quotazione": 8,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "288": {
+            "nome": "Bernab\u00e8",
+            "squadra_reale": "Parma",
+            "ruolo": "C",
+            "quotazione": 7,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "289": {
+            "nome": "Cal\u00f2",
+            "squadra_reale": "Frosinone",
+            "ruolo": "C",
+            "quotazione": 7,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "290": {
+            "nome": "Fazzini",
+            "squadra_reale": "Cagliari",
+            "ruolo": "C",
+            "quotazione": 7,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "291": {
+            "nome": "Ferguson",
+            "squadra_reale": "Bologna",
+            "ruolo": "C",
+            "quotazione": 7,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "292": {
+            "nome": "Frattesi",
+            "squadra_reale": "Inter",
+            "ruolo": "C",
+            "quotazione": 7,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "293": {
+            "nome": "Frendrup",
+            "squadra_reale": "Genoa",
+            "ruolo": "C",
+            "quotazione": 7,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "294": {
+            "nome": "Gaetano",
+            "squadra_reale": "Atalanta",
+            "ruolo": "C",
+            "quotazione": 7,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "295": {
+            "nome": "Lobotka",
+            "squadra_reale": "Napoli",
+            "ruolo": "C",
+            "quotazione": 7,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "296": {
+            "nome": "Oristanio",
+            "squadra_reale": "Torino",
+            "ruolo": "C",
+            "quotazione": 7,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "297": {
+            "nome": "Pessina",
+            "squadra_reale": "Monza",
+            "ruolo": "C",
+            "quotazione": 7,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "298": {
+            "nome": "Sow",
+            "squadra_reale": "Genoa",
+            "ruolo": "C",
+            "quotazione": 7,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "299": {
+            "nome": "Unai Gomez",
+            "squadra_reale": "Udinese",
+            "ruolo": "C",
+            "quotazione": 7,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "300": {
+            "nome": "Volpato",
+            "squadra_reale": "Sassuolo",
+            "ruolo": "C",
+            "quotazione": 7,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "301": {
+            "nome": "Adopo",
+            "squadra_reale": "Cagliari",
+            "ruolo": "C",
+            "quotazione": 6,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "302": {
+            "nome": "Akinsanmiro",
+            "squadra_reale": "Monza",
+            "ruolo": "C",
+            "quotazione": 6,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "303": {
+            "nome": "Basic",
+            "squadra_reale": "Venezia",
+            "ruolo": "C",
+            "quotazione": 6,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "304": {
+            "nome": "Caqueret",
+            "squadra_reale": "Como",
+            "ruolo": "C",
+            "quotazione": 6,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "305": {
+            "nome": "Chukwueze",
+            "squadra_reale": "Milan",
+            "ruolo": "C",
+            "quotazione": 6,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "306": {
+            "nome": "Coulibaly L.",
+            "squadra_reale": "Lecce",
+            "ruolo": "C",
+            "quotazione": 6,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "307": {
+            "nome": "Ellertsson",
+            "squadra_reale": "Genoa",
+            "ruolo": "C",
+            "quotazione": 6,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "308": {
+            "nome": "Karlstrom",
+            "squadra_reale": "Udinese",
+            "ruolo": "C",
+            "quotazione": 6,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "309": {
+            "nome": "Liberali",
+            "squadra_reale": "Como",
+            "ruolo": "C",
+            "quotazione": 6,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "310": {
+            "nome": "Nicolussi Caviglia",
+            "squadra_reale": "Parma",
+            "ruolo": "C",
+            "quotazione": 6,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "311": {
+            "nome": "Oulai",
+            "squadra_reale": "Fiorentina",
+            "ruolo": "C",
+            "quotazione": 6,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "312": {
+            "nome": "Pierotti",
+            "squadra_reale": "Lecce",
+            "ruolo": "C",
+            "quotazione": 6,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "313": {
+            "nome": "Pobega",
+            "squadra_reale": "Bologna",
+            "ruolo": "C",
+            "quotazione": 6,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "314": {
+            "nome": "Rovella",
+            "squadra_reale": "Lazio",
+            "ruolo": "C",
+            "quotazione": 6,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "315": {
+            "nome": "Winks",
+            "squadra_reale": "Cagliari",
+            "ruolo": "C",
+            "quotazione": 6,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "316": {
+            "nome": "Zalewski",
+            "squadra_reale": "Atalanta",
+            "ruolo": "C",
+            "quotazione": 6,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "317": {
+            "nome": "Zhegrova",
+            "squadra_reale": "Juventus",
+            "ruolo": "C",
+            "quotazione": 6,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "318": {
+            "nome": "Addai",
+            "squadra_reale": "Como",
+            "ruolo": "C",
+            "quotazione": 5,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "319": {
+            "nome": "Adzic",
+            "squadra_reale": "Sassuolo",
+            "ruolo": "C",
+            "quotazione": 5,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "320": {
+            "nome": "Amondarain",
+            "squadra_reale": "Bologna",
+            "ruolo": "C",
+            "quotazione": 5,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "321": {
+            "nome": "Bakola",
+            "squadra_reale": "Sassuolo",
+            "ruolo": "C",
+            "quotazione": 5,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "322": {
+            "nome": "Berisha M.",
+            "squadra_reale": "Lecce",
+            "ruolo": "C",
+            "quotazione": 5,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "323": {
+            "nome": "Busio",
+            "squadra_reale": "Venezia",
+            "ruolo": "C",
+            "quotazione": 5,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "324": {
+            "nome": "Cacciamani",
+            "squadra_reale": "Torino",
+            "ruolo": "C",
+            "quotazione": 5,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "325": {
+            "nome": "Dele-Bashiru",
+            "squadra_reale": "Lazio",
+            "ruolo": "C",
+            "quotazione": 5,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "326": {
+            "nome": "Felici",
+            "squadra_reale": "Cagliari",
+            "ruolo": "C",
+            "quotazione": 5,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "327": {
+            "nome": "Fofana Y.",
+            "squadra_reale": "Milan",
+            "ruolo": "C",
+            "quotazione": 5,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "328": {
+            "nome": "Gandelman",
+            "squadra_reale": "Lecce",
+            "ruolo": "C",
+            "quotazione": 5,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "329": {
+            "nome": "Gineitis",
+            "squadra_reale": "Torino",
+            "ruolo": "C",
+            "quotazione": 5,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "330": {
+            "nome": "Keita M.",
+            "squadra_reale": "Parma",
+            "ruolo": "C",
+            "quotazione": 5,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "331": {
+            "nome": "Koopmeiners",
+            "squadra_reale": "Juventus",
+            "ruolo": "C",
+            "quotazione": 5,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "332": {
+            "nome": "Matic",
+            "squadra_reale": "Sassuolo",
+            "ruolo": "C",
+            "quotazione": 5,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "333": {
+            "nome": "Meichtry",
+            "squadra_reale": "Genoa",
+            "ruolo": "C",
+            "quotazione": 5,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "334": {
+            "nome": "Milla",
+            "squadra_reale": "Como",
+            "ruolo": "C",
+            "quotazione": 5,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "335": {
+            "nome": "Mkhitaryan",
+            "squadra_reale": "Inter",
+            "ruolo": "C",
+            "quotazione": 5,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "336": {
+            "nome": "Ondrejka",
+            "squadra_reale": "Parma",
+            "ruolo": "C",
+            "quotazione": 5,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "337": {
+            "nome": "Perez K.",
+            "squadra_reale": "Venezia",
+            "ruolo": "C",
+            "quotazione": 5,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "338": {
+            "nome": "Piotrowski",
+            "squadra_reale": "Udinese",
+            "ruolo": "C",
+            "quotazione": 5,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "339": {
+            "nome": "Pisilli",
+            "squadra_reale": "Roma",
+            "ruolo": "C",
+            "quotazione": 5,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "340": {
+            "nome": "Romano",
+            "squadra_reale": "Cagliari",
+            "ruolo": "C",
+            "quotazione": 5,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "341": {
+            "nome": "Sohm",
+            "squadra_reale": "Venezia",
+            "ruolo": "C",
+            "quotazione": 5,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "342": {
+            "nome": "Traor\u00e8 Hj.",
+            "squadra_reale": "Genoa",
+            "ruolo": "C",
+            "quotazione": 5,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "343": {
+            "nome": "Zerbin",
+            "squadra_reale": "Frosinone",
+            "ruolo": "C",
+            "quotazione": 5,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "344": {
+            "nome": "Almqvist",
+            "squadra_reale": "Parma",
+            "ruolo": "C",
+            "quotazione": 4,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "345": {
+            "nome": "Amorim",
+            "squadra_reale": "Genoa",
+            "ruolo": "C",
+            "quotazione": 4,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "346": {
+            "nome": "Cataldi",
+            "squadra_reale": "Lazio",
+            "ruolo": "C",
+            "quotazione": 4,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "347": {
+            "nome": "Cichella",
+            "squadra_reale": "Frosinone",
+            "ruolo": "C",
+            "quotazione": 4,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "348": {
+            "nome": "De Roon",
+            "squadra_reale": "Atalanta",
+            "ruolo": "C",
+            "quotazione": 4,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "349": {
+            "nome": "Douglas Luiz",
+            "squadra_reale": "Juventus",
+            "ruolo": "C",
+            "quotazione": 4,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "350": {
+            "nome": "El Aynaoui",
+            "squadra_reale": "Roma",
+            "ruolo": "C",
+            "quotazione": 4,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "351": {
+            "nome": "Fabbian",
+            "squadra_reale": "Fiorentina",
+            "ruolo": "C",
+            "quotazione": 4,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "352": {
+            "nome": "Fitz-Jim",
+            "squadra_reale": "Torino",
+            "ruolo": "C",
+            "quotazione": 4,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "353": {
+            "nome": "Folorunsho",
+            "squadra_reale": "Napoli",
+            "ruolo": "C",
+            "quotazione": 4,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "354": {
+            "nome": "Ilkhan",
+            "squadra_reale": "Torino",
+            "ruolo": "C",
+            "quotazione": 4,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "355": {
+            "nome": "Jashari",
+            "squadra_reale": "Milan",
+            "ruolo": "C",
+            "quotazione": 4,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "356": {
+            "nome": "Koutsoupias",
+            "squadra_reale": "Frosinone",
+            "ruolo": "C",
+            "quotazione": 4,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "357": {
+            "nome": "Loftus-Cheek",
+            "squadra_reale": "Milan",
+            "ruolo": "C",
+            "quotazione": 4,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "358": {
+            "nome": "Luis Henrique",
+            "squadra_reale": "Inter",
+            "ruolo": "C",
+            "quotazione": 4,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "359": {
+            "nome": "Moro N.",
+            "squadra_reale": "Bologna",
+            "ruolo": "C",
+            "quotazione": 4,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "360": {
+            "nome": "Ngom",
+            "squadra_reale": "Lecce",
+            "ruolo": "C",
+            "quotazione": 4,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "361": {
+            "nome": "Njie",
+            "squadra_reale": "Torino",
+            "ruolo": "C",
+            "quotazione": 4,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "362": {
+            "nome": "Prati",
+            "squadra_reale": "Cagliari",
+            "ruolo": "C",
+            "quotazione": 4,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "363": {
+            "nome": "Ricci S.",
+            "squadra_reale": "Milan",
+            "ruolo": "C",
+            "quotazione": 4,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "364": {
+            "nome": "Aboukhlal",
+            "squadra_reale": "Torino",
+            "ruolo": "C",
+            "quotazione": 3,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "365": {
+            "nome": "Brescianini",
+            "squadra_reale": "Fiorentina",
+            "ruolo": "C",
+            "quotazione": 3,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "366": {
+            "nome": "Colombo L.",
+            "squadra_reale": "Monza",
+            "ruolo": "C",
+            "quotazione": 3,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "367": {
+            "nome": "Deiola",
+            "squadra_reale": "Cagliari",
+            "ruolo": "C",
+            "quotazione": 3,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "368": {
+            "nome": "Diallo O.",
+            "squadra_reale": "Parma",
+            "ruolo": "C",
+            "quotazione": 3,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "369": {
+            "nome": "Dominguez B.",
+            "squadra_reale": "Bologna",
+            "ruolo": "C",
+            "quotazione": 3,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "370": {
+            "nome": "Fini",
+            "squadra_reale": "Frosinone",
+            "ruolo": "C",
+            "quotazione": 3,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "371": {
+            "nome": "Gelli F.",
+            "squadra_reale": "Frosinone",
+            "ruolo": "C",
+            "quotazione": 3,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "372": {
+            "nome": "Gilmour",
+            "squadra_reale": "Napoli",
+            "ruolo": "C",
+            "quotazione": 3,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "373": {
+            "nome": "Helgason",
+            "squadra_reale": "Venezia",
+            "ruolo": "C",
+            "quotazione": 3,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "374": {
+            "nome": "Messias",
+            "squadra_reale": "Genoa",
+            "ruolo": "C",
+            "quotazione": 3,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "375": {
+            "nome": "Miller L.",
+            "squadra_reale": "Udinese",
+            "ruolo": "C",
+            "quotazione": 3,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "376": {
+            "nome": "Miretti",
+            "squadra_reale": "Juventus",
+            "ruolo": "C",
+            "quotazione": 3,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "377": {
+            "nome": "Sorensen O.",
+            "squadra_reale": "Parma",
+            "ruolo": "C",
+            "quotazione": 3,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "378": {
+            "nome": "Stankovic A.",
+            "squadra_reale": "Inter",
+            "ruolo": "C",
+            "quotazione": 3,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "379": {
+            "nome": "Sulemana I.",
+            "squadra_reale": "Atalanta",
+            "ruolo": "C",
+            "quotazione": 3,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "380": {
+            "nome": "Boloca",
+            "squadra_reale": "Sassuolo",
+            "ruolo": "C",
+            "quotazione": 2,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "381": {
+            "nome": "Chakvetadze",
+            "squadra_reale": "Udinese",
+            "ruolo": "C",
+            "quotazione": 2,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "382": {
+            "nome": "Ciurria",
+            "squadra_reale": "Monza",
+            "ruolo": "C",
+            "quotazione": 2,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "383": {
+            "nome": "Duncan",
+            "squadra_reale": "Venezia",
+            "ruolo": "C",
+            "quotazione": 2,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "384": {
+            "nome": "El Azzouzi O.",
+            "squadra_reale": "Bologna",
+            "ruolo": "C",
+            "quotazione": 2,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "385": {
+            "nome": "Fadera",
+            "squadra_reale": "Como",
+            "ruolo": "C",
+            "quotazione": 2,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "386": {
+            "nome": "Hasa",
+            "squadra_reale": "Frosinone",
+            "ruolo": "C",
+            "quotazione": 2,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "387": {
+            "nome": "Lipani",
+            "squadra_reale": "Sassuolo",
+            "ruolo": "C",
+            "quotazione": 2,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "388": {
+            "nome": "Maleh",
+            "squadra_reale": "Lecce",
+            "ruolo": "C",
+            "quotazione": 2,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "389": {
+            "nome": "Masini",
+            "squadra_reale": "Genoa",
+            "ruolo": "C",
+            "quotazione": 2,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "390": {
+            "nome": "Musah",
+            "squadra_reale": "Milan",
+            "ruolo": "C",
+            "quotazione": 2,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "391": {
+            "nome": "Ordonez C.",
+            "squadra_reale": "Parma",
+            "ruolo": "C",
+            "quotazione": 2,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "392": {
+            "nome": "Venturino",
+            "squadra_reale": "Genoa",
+            "ruolo": "C",
+            "quotazione": 2,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "393": {
+            "nome": "Anjorin",
+            "squadra_reale": "Torino",
+            "ruolo": "C",
+            "quotazione": 1,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "394": {
+            "nome": "Belahyane",
+            "squadra_reale": "Lazio",
+            "ruolo": "C",
+            "quotazione": 1,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "395": {
+            "nome": "Camara A.",
+            "squadra_reale": "Udinese",
+            "ruolo": "C",
+            "quotazione": 1,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "396": {
+            "nome": "Cremaschi",
+            "squadra_reale": "Parma",
+            "ruolo": "C",
+            "quotazione": 1,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "397": {
+            "nome": "Dagasso",
+            "squadra_reale": "Venezia",
+            "ruolo": "C",
+            "quotazione": 1,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "398": {
+            "nome": "El Azzouzi A.",
+            "squadra_reale": "Frosinone",
+            "ruolo": "C",
+            "quotazione": 1,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "399": {
+            "nome": "Fofana Sa.",
+            "squadra_reale": "Lecce",
+            "ruolo": "C",
+            "quotazione": 1,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "400": {
+            "nome": "Gorter",
+            "squadra_reale": "Lecce",
+            "ruolo": "C",
+            "quotazione": 1,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "401": {
+            "nome": "Iannoni",
+            "squadra_reale": "Sassuolo",
+            "ruolo": "C",
+            "quotazione": 1,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "402": {
+            "nome": "Ilic",
+            "squadra_reale": "Torino",
+            "ruolo": "C",
+            "quotazione": 1,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "403": {
+            "nome": "Kaba",
+            "squadra_reale": "Lecce",
+            "ruolo": "C",
+            "quotazione": 1,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "404": {
+            "nome": "Kone B.",
+            "squadra_reale": "Frosinone",
+            "ruolo": "C",
+            "quotazione": 1,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "405": {
+            "nome": "Lahdo",
+            "squadra_reale": "Como",
+            "ruolo": "C",
+            "quotazione": 1,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "406": {
+            "nome": "Liteta",
+            "squadra_reale": "Cagliari",
+            "ruolo": "C",
+            "quotazione": 1,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "407": {
+            "nome": "Przyborek",
+            "squadra_reale": "Lazio",
+            "ruolo": "C",
+            "quotazione": 1,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "408": {
+            "nome": "Zarraga",
+            "squadra_reale": "Udinese",
+            "ruolo": "C",
+            "quotazione": 1,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "409": {
+            "nome": "Martinez L.",
+            "squadra_reale": "Inter",
+            "ruolo": "A",
+            "quotazione": 35,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "410": {
+            "nome": "Malen",
+            "squadra_reale": "Roma",
+            "ruolo": "A",
+            "quotazione": 34,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "411": {
+            "nome": "Thuram",
+            "squadra_reale": "Inter",
+            "ruolo": "A",
+            "quotazione": 29,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "412": {
+            "nome": "Hojlund",
+            "squadra_reale": "Napoli",
+            "ruolo": "A",
+            "quotazione": 28,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "413": {
+            "nome": "Ramos G.",
+            "squadra_reale": "Milan",
+            "ruolo": "A",
+            "quotazione": 27,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "414": {
+            "nome": "Kolo Muani",
+            "squadra_reale": "Juventus",
+            "ruolo": "A",
+            "quotazione": 26,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "415": {
+            "nome": "Kean",
+            "squadra_reale": "Fiorentina",
+            "ruolo": "A",
+            "quotazione": 25,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "416": {
+            "nome": "Yildiz",
+            "squadra_reale": "Juventus",
+            "ruolo": "A",
+            "quotazione": 23,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "417": {
+            "nome": "Douvikas",
+            "squadra_reale": "Como",
+            "ruolo": "A",
+            "quotazione": 20,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "418": {
+            "nome": "Davis K.",
+            "squadra_reale": "Udinese",
+            "ruolo": "A",
+            "quotazione": 19,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "419": {
+            "nome": "Scamacca",
+            "squadra_reale": "Atalanta",
+            "ruolo": "A",
+            "quotazione": 19,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "420": {
+            "nome": "Berardi",
+            "squadra_reale": "Sassuolo",
+            "ruolo": "A",
+            "quotazione": 18,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "421": {
+            "nome": "Krstovic",
+            "squadra_reale": "Atalanta",
+            "ruolo": "A",
+            "quotazione": 18,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "422": {
+            "nome": "Leao",
+            "squadra_reale": "Milan",
+            "ruolo": "A",
+            "quotazione": 18,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "423": {
+            "nome": "De Ketelaere",
+            "squadra_reale": "Atalanta",
+            "ruolo": "A",
+            "quotazione": 17,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "424": {
+            "nome": "Dovbyk",
+            "squadra_reale": "Bologna",
+            "ruolo": "A",
+            "quotazione": 16,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "425": {
+            "nome": "Esposito F.P.",
+            "squadra_reale": "Inter",
+            "ruolo": "A",
+            "quotazione": 16,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "426": {
+            "nome": "Laurient\u00e8",
+            "squadra_reale": "Sassuolo",
+            "ruolo": "A",
+            "quotazione": 15,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "427": {
+            "nome": "Pellegrino M.",
+            "squadra_reale": "Parma",
+            "ruolo": "A",
+            "quotazione": 15,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "428": {
+            "nome": "Simeone",
+            "squadra_reale": "Torino",
+            "ruolo": "A",
+            "quotazione": 15,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "429": {
+            "nome": "Castro S.",
+            "squadra_reale": "Roma",
+            "ruolo": "A",
+            "quotazione": 14,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "430": {
+            "nome": "Dybala",
+            "squadra_reale": "Roma",
+            "ruolo": "A",
+            "quotazione": 14,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "431": {
+            "nome": "Santos A.",
+            "squadra_reale": "Napoli",
+            "ruolo": "A",
+            "quotazione": 14,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "432": {
+            "nome": "Esposito Se.",
+            "squadra_reale": "Cagliari",
+            "ruolo": "A",
+            "quotazione": 13,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "433": {
+            "nome": "Nkunku",
+            "squadra_reale": "Milan",
+            "ruolo": "A",
+            "quotazione": 13,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "434": {
+            "nome": "Pinamonti",
+            "squadra_reale": "Sassuolo",
+            "ruolo": "A",
+            "quotazione": 13,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "435": {
+            "nome": "Raspadori",
+            "squadra_reale": "Atalanta",
+            "ruolo": "A",
+            "quotazione": 13,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "436": {
+            "nome": "Adams A.",
+            "squadra_reale": "Venezia",
+            "ruolo": "A",
+            "quotazione": 12,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "437": {
+            "nome": "Soul\u00e8",
+            "squadra_reale": "Roma",
+            "ruolo": "A",
+            "quotazione": 12,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "438": {
+            "nome": "Colombo",
+            "squadra_reale": "Genoa",
+            "ruolo": "A",
+            "quotazione": 11,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "439": {
+            "nome": "Diao",
+            "squadra_reale": "Como",
+            "ruolo": "A",
+            "quotazione": 11,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "440": {
+            "nome": "Tour\u00e8 E.",
+            "squadra_reale": "Parma",
+            "ruolo": "A",
+            "quotazione": 11,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "441": {
+            "nome": "Bowie",
+            "squadra_reale": "Sassuolo",
+            "ruolo": "A",
+            "quotazione": 10,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "442": {
+            "nome": "Dia",
+            "squadra_reale": "Lazio",
+            "ruolo": "A",
+            "quotazione": 10,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "443": {
+            "nome": "Lukaku",
+            "squadra_reale": "Napoli",
+            "ruolo": "A",
+            "quotazione": 10,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "444": {
+            "nome": "Ratkov",
+            "squadra_reale": "Lazio",
+            "ruolo": "A",
+            "quotazione": 10,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "445": {
+            "nome": "Adams C.",
+            "squadra_reale": "Torino",
+            "ruolo": "A",
+            "quotazione": 9,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "446": {
+            "nome": "Cutrone",
+            "squadra_reale": "Monza",
+            "ruolo": "A",
+            "quotazione": 9,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "447": {
+            "nome": "David",
+            "squadra_reale": "Juventus",
+            "ruolo": "A",
+            "quotazione": 9,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "448": {
+            "nome": "Geubbels",
+            "squadra_reale": "Lecce",
+            "ruolo": "A",
+            "quotazione": 9,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "449": {
+            "nome": "Ghedjemis",
+            "squadra_reale": "Frosinone",
+            "ruolo": "A",
+            "quotazione": 9,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "450": {
+            "nome": "Dallinga",
+            "squadra_reale": "Bologna",
+            "ruolo": "A",
+            "quotazione": 8,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "451": {
+            "nome": "Piccoli",
+            "squadra_reale": "Fiorentina",
+            "ruolo": "A",
+            "quotazione": 8,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "452": {
+            "nome": "Rrahmani Al.",
+            "squadra_reale": "Venezia",
+            "ruolo": "A",
+            "quotazione": 8,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "453": {
+            "nome": "Vitinha O.",
+            "squadra_reale": "Genoa",
+            "ruolo": "A",
+            "quotazione": 8,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "454": {
+            "nome": "Yeboah J.",
+            "squadra_reale": "Venezia",
+            "ruolo": "A",
+            "quotazione": 8,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "455": {
+            "nome": "Bonny",
+            "squadra_reale": "Inter",
+            "ruolo": "A",
+            "quotazione": 7,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "456": {
+            "nome": "Raimondo",
+            "squadra_reale": "Frosinone",
+            "ruolo": "A",
+            "quotazione": 7,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "457": {
+            "nome": "Stulic",
+            "squadra_reale": "Lecce",
+            "ruolo": "A",
+            "quotazione": 7,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "458": {
+            "nome": "Zapata D.",
+            "squadra_reale": "Torino",
+            "ruolo": "A",
+            "quotazione": 7,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "459": {
+            "nome": "Boga",
+            "squadra_reale": "Juventus",
+            "ruolo": "A",
+            "quotazione": 6,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "460": {
+            "nome": "Gimenez",
+            "squadra_reale": "Milan",
+            "ruolo": "A",
+            "quotazione": 6,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "461": {
+            "nome": "Mutandwa",
+            "squadra_reale": "Cagliari",
+            "ruolo": "A",
+            "quotazione": 6,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "462": {
+            "nome": "Neres",
+            "squadra_reale": "Napoli",
+            "ruolo": "A",
+            "quotazione": 6,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "463": {
+            "nome": "Noslin",
+            "squadra_reale": "Lazio",
+            "ruolo": "A",
+            "quotazione": 6,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "464": {
+            "nome": "Sulemana K.",
+            "squadra_reale": "Atalanta",
+            "ruolo": "A",
+            "quotazione": 6,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "465": {
+            "nome": "Adorante",
+            "squadra_reale": "Venezia",
+            "ruolo": "A",
+            "quotazione": 5,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "466": {
+            "nome": "Camarda",
+            "squadra_reale": "Milan",
+            "ruolo": "A",
+            "quotazione": 5,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "467": {
+            "nome": "Frigan",
+            "squadra_reale": "Parma",
+            "ruolo": "A",
+            "quotazione": 5,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "468": {
+            "nome": "Maldini",
+            "squadra_reale": "Atalanta",
+            "ruolo": "A",
+            "quotazione": 5,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "469": {
+            "nome": "Mota",
+            "squadra_reale": "Monza",
+            "ruolo": "A",
+            "quotazione": 5,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "470": {
+            "nome": "Borrelli",
+            "squadra_reale": "Cagliari",
+            "ruolo": "A",
+            "quotazione": 4,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "471": {
+            "nome": "Giovane",
+            "squadra_reale": "Napoli",
+            "ruolo": "A",
+            "quotazione": 4,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "472": {
+            "nome": "Gueye",
+            "squadra_reale": "Udinese",
+            "ruolo": "A",
+            "quotazione": 4,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "473": {
+            "nome": "Havel",
+            "squadra_reale": "Genoa",
+            "ruolo": "A",
+            "quotazione": 4,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "474": {
+            "nome": "Kulenovic",
+            "squadra_reale": "Torino",
+            "ruolo": "A",
+            "quotazione": 4,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "475": {
+            "nome": "Kvernadze",
+            "squadra_reale": "Frosinone",
+            "ruolo": "A",
+            "quotazione": 4,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "476": {
+            "nome": "Mendy P.",
+            "squadra_reale": "Cagliari",
+            "ruolo": "A",
+            "quotazione": 4,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "477": {
+            "nome": "Morata",
+            "squadra_reale": "Como",
+            "ruolo": "A",
+            "quotazione": 4,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "478": {
+            "nome": "Robinson J.",
+            "squadra_reale": "Monza",
+            "ruolo": "A",
+            "quotazione": 4,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "479": {
+            "nome": "Ekhator",
+            "squadra_reale": "Juventus",
+            "ruolo": "A",
+            "quotazione": 3,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "480": {
+            "nome": "Elphege",
+            "squadra_reale": "Parma",
+            "ruolo": "A",
+            "quotazione": 3,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "481": {
+            "nome": "Kuhn",
+            "squadra_reale": "Como",
+            "ruolo": "A",
+            "quotazione": 3,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "482": {
+            "nome": "Lang",
+            "squadra_reale": "Napoli",
+            "ruolo": "A",
+            "quotazione": 3,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "483": {
+            "nome": "Lucca",
+            "squadra_reale": "Napoli",
+            "ruolo": "A",
+            "quotazione": 3,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "484": {
+            "nome": "N'Dri",
+            "squadra_reale": "Lecce",
+            "ruolo": "A",
+            "quotazione": 3,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "485": {
+            "nome": "Varela G.",
+            "squadra_reale": "Monza",
+            "ruolo": "A",
+            "quotazione": 3,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "486": {
+            "nome": "Buksa",
+            "squadra_reale": "Udinese",
+            "ruolo": "A",
+            "quotazione": 2,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "487": {
+            "nome": "Petagna",
+            "squadra_reale": "Monza",
+            "ruolo": "A",
+            "quotazione": 2,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "488": {
+            "nome": "Albarracin",
+            "squadra_reale": "Cagliari",
+            "ruolo": "A",
+            "quotazione": 1,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "489": {
+            "nome": "Azon",
+            "squadra_reale": "Como",
+            "ruolo": "A",
+            "quotazione": 1,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "490": {
+            "nome": "Bayo V.",
+            "squadra_reale": "Udinese",
+            "ruolo": "A",
+            "quotazione": 1,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "491": {
+            "nome": "Lauberbach",
+            "squadra_reale": "Venezia",
+            "ruolo": "A",
+            "quotazione": 1,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "492": {
+            "nome": "Lisman",
+            "squadra_reale": "Venezia",
+            "ruolo": "A",
+            "quotazione": 1,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "493": {
+            "nome": "Moro L.",
+            "squadra_reale": "Sassuolo",
+            "ruolo": "A",
+            "quotazione": 1,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "494": {
+            "nome": "Trepy",
+            "squadra_reale": "Cagliari",
+            "ruolo": "A",
+            "quotazione": 1,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        },
+        "495": {
+            "nome": "Vaz",
+            "squadra_reale": "Roma",
+            "ruolo": "A",
+            "quotazione": 1,
+            "chiamato": false,
+            "assegnato_a": null,
+            "prezzo": null
+        }
+    },
+    "next_id": 496,
+    "imported_at": 1786643910.570342,
+    "source_filename": "lista_calciatori_lista calciatori_classic_fanta-sbamba (1).xlsx"
+}

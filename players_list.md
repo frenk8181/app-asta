@@ -1,0 +1,532 @@
+# Lista Calciatori
+
+## Portieri (60)
+
+### Top
+- Svilar | Roma | 18
+- Martinez Jo. | Inter | 17
+- Butez | Como | 16
+- Carnesecchi | Atalanta | 16
+- Maignan | Milan | 15
+- De Gea | Fiorentina | 13
+- Meret | Napoli | 11
+- Skorupski | Bologna | 10
+- Caprile | Cagliari | 9
+- Di Gregorio | Juventus | 9
+- Mandas | Lazio | 9
+- Okoye | Udinese | 9
+
+### Semi-top
+- Bijlow | Genoa | 8
+- Falcone | Lecce | 8
+- Daffara | Parma | 7
+- Muric | Sassuolo | 7
+- Suzuki | Parma | 7
+- Perin | Juventus | 6
+- Stankovic F. | Venezia | 6
+- Milinkovic-Savic V. | Napoli | 5
+- Thiam | Monza | 5
+- Palmisani | Frosinone | 4
+- Desplanches | Frosinone | 2
+- Provedel | Inter | 2
+- Christensen O. | Fiorentina | 1
+- Ciocci | Cagliari | 1
+- Contini | Napoli | 1
+- Corvi | Parma | 1
+- De Marzi | Roma | 1
+- Di Gennaro | Inter | 1
+- Gollini | Roma | 1
+- Grandi | Venezia | 1
+- Happonen | Bologna | 1
+- Lezzerini | Fiorentina | 1
+- Lolic | Frosinone | 1
+- Mascardi | Torino | 1
+- Motta | Lazio | 1
+- Padelli | Udinese | 1
+- Paleari | Torino | 1
+- Pessina Mas. | Bologna | 1
+- Piana | Udinese | 1
+- Pinsoglio | Juventus | 1
+- Pizzignacco | Monza | 1
+- Pozzi | Venezia | 1
+- Renzetti | Lazio | 1
+- Russo A. | Sassuolo | 1
+- Samooja | Lecce | 1
+- Satalino | Sassuolo | 1
+- Sherri | Cagliari | 1
+- Siviero | Torino | 1
+- Sommariva | Genoa | 1
+- Sportiello | Atalanta | 1
+- Stolz | Genoa | 1
+- Strajnar | Monza | 1
+- Terracciano | Milan | 1
+- Tornqvist | Como | 1
+- Torriani | Milan | 1
+- Turati | Sassuolo | 1
+- Vigorito | Como | 1
+- Vismara | Atalanta | 1
+
+## Difensori (175)
+
+### Top
+- Dimarco | Inter | 32
+- Wesley | Roma | 17
+- Akanji | Inter | 16
+- Bremer | Juventus | 15
+- Mancini | Roma | 15
+- Bastoni | Inter | 14
+- Pavlovic | Milan | 14
+- Rrahmani | Napoli | 14
+- Kalulu | Juventus | 13
+- N'Dicka | Roma | 13
+- Solet | Udinese | 13
+- Di Lorenzo | Napoli | 12
+- Gila | Milan | 12
+- Stones | Inter | 12
+- Bisseck | Inter | 11
+- Ostigard | Genoa | 11
+- Dodò | Fiorentina | 10
+- Hermoso | Roma | 10
+- Ramon | Como | 10
+- Scalvini | Atalanta | 10
+- Cambiaso | Juventus | 9
+- Vasquez | Genoa | 9
+- Bartesaghi | Milan | 8
+- Celik | Juventus | 8
+- Couto | Como | 8
+- Delprato | Parma | 8
+- Dragusin | Fiorentina | 8
+- Hien | Atalanta | 8
+- Jimenez A. | Fiorentina | 8
+- Koulierakis | Roma | 8
+- Lucumì | Bologna | 8
+- Mina | Cagliari | 8
+- Miranda J. | Bologna | 8
+- Norton-Cuffy | Genoa | 8
+- Spinazzola | Napoli | 8
+- Valeri | Parma | 8
+- Vojvoda | Udinese | 8
+- Zappacosta | Atalanta | 8
+
+### Semi-top
+- Buongiorno | Napoli | 7
+- Carlos Augusto | Inter | 7
+- Coco | Torino | 7
+- Djimsiti | Atalanta | 7
+- Doekhi | Lazio | 7
+- Gabbia | Milan | 7
+- Idzes | Sassuolo | 7
+- Ismajli | Torino | 7
+- Kaiki | Como | 7
+- Kristensen T. | Udinese | 7
+- Obert | Cagliari | 7
+- Romagnoli | Lazio | 7
+- Tiago Gabriel | Lecce | 7
+- Tomori | Milan | 7
+- Ahanor | Atalanta | 6
+- Bella-Kotchap | Venezia | 6
+- Bellanova | Atalanta | 6
+- Bernasconi | Atalanta | 6
+- Beukema | Napoli | 6
+- Circati | Parma | 6
+- Comuzzo | Torino | 6
+- Gallo | Lecce | 6
+- Heggem | Bologna | 6
+- Kamara H. | Udinese | 6
+- Mangas | Monza | 6
+- Marcandalli | Genoa | 6
+- Marusic | Lazio | 6
+- Monterisi | Frosinone | 6
+- Pavard | Inter | 6
+- Tavares N. | Lazio | 6
+- Valdepenas | Fiorentina | 6
+- Valle | Como | 6
+- Viery | Fiorentina | 6
+- Zortea | Bologna | 6
+
+### Buoni
+- Bracaglia | Frosinone | 5
+- Gaspar K. | Lecce | 5
+- Haps | Venezia | 5
+- Holm | Bologna | 5
+- Kelly L. | Juventus | 5
+- Kempf | Como | 5
+- Kofler | Cagliari | 5
+- Kolasinac | Atalanta | 5
+- Martin | Genoa | 5
+- Moreno M. | Venezia | 5
+- Olivera | Napoli | 5
+- Oyono A. | Frosinone | 5
+- Parisi | Fiorentina | 5
+- Pedersen | Torino | 5
+- Pedraza | Lazio | 5
+- Rensch | Roma | 5
+- Veiga D. | Lecce | 5
+- Vitik | Bologna | 5
+- Zè Pedro | Cagliari | 5
+- Arizala | Udinese | 4
+- Bertola | Udinese | 4
+- Birindelli | Monza | 4
+- Calvani | Frosinone | 4
+- Comert | Torino | 4
+- Correia T. | Venezia | 4
+- Delli Carri | Monza | 4
+- Doig | Sassuolo | 4
+- Gatti | Juventus | 4
+- Ghilardi | Roma | 4
+- Halhal | Venezia | 4
+- Kabasele | Udinese | 4
+- Lucchesi | Monza | 4
+- Mitaj | Genoa | 4
+- Pongracic | Fiorentina | 4
+- Siebert | Lecce | 4
+- Smolcic I. | Como | 4
+- Valenti | Parma | 4
+- Walukiewicz | Sassuolo | 4
+- Zanoli | Udinese | 4
+- Zappa | Cagliari | 4
+- Akpoguma | Frosinone | 3
+- Athekame | Milan | 3
+- Britschgi | Parma | 3
+- Candè | Sassuolo | 3
+- Carboni A. | Monza | 3
+- Casale | Bologna | 3
+- Cittadini | Frosinone | 3
+- De Winter | Milan | 3
+- Estupinan | Milan | 3
+- Floriani Mussolini | Lazio | 3
+- Hainaut | Venezia | 3
+- Idrissi R. | Cagliari | 3
+- Joao Mario | Fiorentina | 3
+- Kossounou | Atalanta | 3
+- Kouadio | Monza | 3
+- Provstgaard | Lazio | 3
+- Ranieri L. | Fiorentina | 3
+- Rodriguez Ju. | Cagliari | 3
+- Schingtienne | Venezia | 3
+- Sverko | Venezia | 3
+- Troilo | Parma | 3
+
+### Low-cost
+- Alhassane | Bologna | 2
+- Biraghi | Torino | 2
+- Diawara S. | Milan | 2
+- Ebosse | Udinese | 2
+- Franjic | Venezia | 2
+- Helland | Bologna | 2
+- Jean | Lecce | 2
+- Lazzari | Lazio | 2
+- Marin R. | Napoli | 2
+- Otoa | Genoa | 2
+- Palma | Udinese | 2
+- Pellegrini Lu. | Lazio | 2
+- Puczka | Genoa | 2
+- Sabelli | Genoa | 2
+- Sagrado | Venezia | 2
+- Van Der Brempt | Como | 2
+- Abankwah | Udinese | 1
+- Amey | Frosinone | 1
+- Antov | Monza | 1
+- Bakoune | Monza | 1
+- Cabal | Juventus | 1
+- Carboni F. | Parma | 1
+- Corrado | Frosinone | 1
+- Cuenca A. | Como | 1
+- De Silvestri | Bologna | 1
+- Gelli J. | Frosinone | 1
+- Goldaniga | Como | 1
+- Gomes | Venezia | 1
+- Marianucci | Napoli | 1
+- Matturro | Genoa | 1
+- Mazzocchi | Napoli | 1
+- Missori | Sassuolo | 1
+- Mlacic | Udinese | 1
+- Ndaba | Lecce | 1
+- Ndiaye | Parma | 1
+- Oyono J. | Frosinone | 1
+- Patric | Lazio | 1
+- Perez M. | Lecce | 1
+- Pieragnolo | Sassuolo | 1
+- Raterink | Cagliari | 1
+- Rugani | Juventus | 1
+- Ziolkowski | Roma | 1
+
+## Centrocampisti (173)
+
+### Top
+- Paz N. | Como | 30
+- McTominay | Napoli | 28
+- Calhanoglu | Inter | 27
+- Orsolini | Bologna | 26
+- Pulisic | Milan | 25
+- Rabiot | Milan | 22
+- Baturina | Como | 19
+- Da Cunha | Como | 18
+- Zaniolo | Udinese | 18
+- Atta | Fiorentina | 17
+- Barella | Inter | 17
+- McKennie | Juventus | 17
+- Zaccagni | Lazio | 16
+- De Bruyne | Napoli | 15
+- Vlasic | Torino | 14
+- Gudmundsson A. | Fiorentina | 13
+- Taylor K. | Lazio | 13
+- Alajbegovic | Juventus | 12
+- Conceicao | Juventus | 12
+- Ederson D.S. | Atalanta | 12
+- Mastantuono | Fiorentina | 12
+- Modric | Milan | 12
+- Rodriguez Je. | Como | 12
+- Samardzic | Atalanta | 12
+- Baldanzi | Genoa | 11
+- Rowe | Bologna | 11
+- Zambo Anguissa | Napoli | 11
+
+### Semi-top
+- Casadei | Torino | 10
+- Ekkelenkamp | Udinese | 10
+- Konè M. | Roma | 10
+- Perrone | Como | 10
+- Politano | Napoli | 10
+- Saelemaekers | Milan | 10
+- Thorstvedt | Sassuolo | 10
+- Thuram K. | Juventus | 10
+- Zielinski | Inter | 10
+- Bernardeschi | Bologna | 9
+- Cancellieri | Lazio | 9
+- Isaksen | Lazio | 9
+- Konè I. | Sassuolo | 9
+- Mandragora | Fiorentina | 9
+- Pasalic | Atalanta | 9
+- Cambiaghi | Bologna | 8
+- Colpani | Monza | 8
+- Cristante | Roma | 8
+- Diouf | Inter | 8
+- Fagioli | Fiorentina | 8
+- Locatelli | Juventus | 8
+- Ndour | Fiorentina | 8
+- Odgaard | Bologna | 8
+- Sucic P. | Inter | 8
+- Vergara | Napoli | 8
+- Bernabè | Parma | 7
+- Calò | Frosinone | 7
+- Fazzini | Cagliari | 7
+- Ferguson | Bologna | 7
+- Frattesi | Inter | 7
+- Frendrup | Genoa | 7
+- Gaetano | Atalanta | 7
+- Lobotka | Napoli | 7
+- Oristanio | Torino | 7
+- Pessina | Monza | 7
+- Sow | Genoa | 7
+- Unai Gomez | Udinese | 7
+- Volpato | Sassuolo | 7
+- Adopo | Cagliari | 6
+- Akinsanmiro | Monza | 6
+- Basic | Venezia | 6
+- Caqueret | Como | 6
+- Chukwueze | Milan | 6
+- Coulibaly L. | Lecce | 6
+- Ellertsson | Genoa | 6
+- Karlstrom | Udinese | 6
+- Liberali | Como | 6
+- Nicolussi Caviglia | Parma | 6
+- Oulai | Fiorentina | 6
+- Pierotti | Lecce | 6
+- Pobega | Bologna | 6
+- Rovella | Lazio | 6
+- Winks | Cagliari | 6
+- Zalewski | Atalanta | 6
+- Zhegrova | Juventus | 6
+
+### Buoni
+- Addai | Como | 5
+- Adzic | Sassuolo | 5
+- Amondarain | Bologna | 5
+- Bakola | Sassuolo | 5
+- Berisha M. | Lecce | 5
+- Busio | Venezia | 5
+- Cacciamani | Torino | 5
+- Dele-Bashiru | Lazio | 5
+- Felici | Cagliari | 5
+- Fofana Y. | Milan | 5
+- Gandelman | Lecce | 5
+- Gineitis | Torino | 5
+- Keita M. | Parma | 5
+- Koopmeiners | Juventus | 5
+- Matic | Sassuolo | 5
+- Meichtry | Genoa | 5
+- Milla | Como | 5
+- Mkhitaryan | Inter | 5
+- Ondrejka | Parma | 5
+- Perez K. | Venezia | 5
+- Piotrowski | Udinese | 5
+- Pisilli | Roma | 5
+- Romano | Cagliari | 5
+- Sohm | Venezia | 5
+- Traorè Hj. | Genoa | 5
+- Zerbin | Frosinone | 5
+- Almqvist | Parma | 4
+- Amorim | Genoa | 4
+- Cataldi | Lazio | 4
+- Cichella | Frosinone | 4
+- De Roon | Atalanta | 4
+- Douglas Luiz | Juventus | 4
+- El Aynaoui | Roma | 4
+- Fabbian | Fiorentina | 4
+- Fitz-Jim | Torino | 4
+- Folorunsho | Napoli | 4
+- Ilkhan | Torino | 4
+- Jashari | Milan | 4
+- Koutsoupias | Frosinone | 4
+- Loftus-Cheek | Milan | 4
+- Luis Henrique | Inter | 4
+- Moro N. | Bologna | 4
+- Ngom | Lecce | 4
+- Njie | Torino | 4
+- Prati | Cagliari | 4
+- Ricci S. | Milan | 4
+
+### Low-cost
+- Aboukhlal | Torino | 3
+- Brescianini | Fiorentina | 3
+- Colombo L. | Monza | 3
+- Deiola | Cagliari | 3
+- Diallo O. | Parma | 3
+- Dominguez B. | Bologna | 3
+- Fini | Frosinone | 3
+- Gelli F. | Frosinone | 3
+- Gilmour | Napoli | 3
+- Helgason | Venezia | 3
+- Messias | Genoa | 3
+- Miller L. | Udinese | 3
+- Miretti | Juventus | 3
+- Sorensen O. | Parma | 3
+- Stankovic A. | Inter | 3
+- Sulemana I. | Atalanta | 3
+- Boloca | Sassuolo | 2
+- Chakvetadze | Udinese | 2
+- Ciurria | Monza | 2
+- Duncan | Venezia | 2
+- El Azzouzi O. | Bologna | 2
+- Fadera | Como | 2
+- Hasa | Frosinone | 2
+- Lipani | Sassuolo | 2
+- Maleh | Lecce | 2
+- Masini | Genoa | 2
+- Musah | Milan | 2
+- Ordonez C. | Parma | 2
+- Venturino | Genoa | 2
+- Anjorin | Torino | 1
+- Belahyane | Lazio | 1
+- Camara A. | Udinese | 1
+- Cremaschi | Parma | 1
+- Dagasso | Venezia | 1
+- El Azzouzi A. | Frosinone | 1
+- Fofana Sa. | Lecce | 1
+- Gorter | Lecce | 1
+- Iannoni | Sassuolo | 1
+- Ilic | Torino | 1
+- Kaba | Lecce | 1
+- Kone B. | Frosinone | 1
+- Lahdo | Como | 1
+- Liteta | Cagliari | 1
+- Przyborek | Lazio | 1
+- Zarraga | Udinese | 1
+
+## Attaccanti (87)
+
+### Top
+- Martinez L. | Inter | 35
+- Malen | Roma | 34
+- Thuram | Inter | 29
+- Hojlund | Napoli | 28
+- Ramos G. | Milan | 27
+- Kolo Muani | Juventus | 26
+- Kean | Fiorentina | 25
+- Yildiz | Juventus | 23
+- Douvikas | Como | 20
+- Davis K. | Udinese | 19
+- Scamacca | Atalanta | 19
+- Berardi | Sassuolo | 18
+- Krstovic | Atalanta | 18
+- Leao | Milan | 18
+
+### Semi-top
+- De Ketelaere | Atalanta | 17
+- Dovbyk | Bologna | 16
+- Esposito F.P. | Inter | 16
+- Laurientè | Sassuolo | 15
+- Pellegrino M. | Parma | 15
+- Simeone | Torino | 15
+- Castro S. | Roma | 14
+- Dybala | Roma | 14
+- Santos A. | Napoli | 14
+- Esposito Se. | Cagliari | 13
+- Nkunku | Milan | 13
+- Pinamonti | Sassuolo | 13
+- Raspadori | Atalanta | 13
+- Adams A. | Venezia | 12
+- Soulè | Roma | 12
+- Colombo | Genoa | 11
+- Diao | Como | 11
+- Tourè E. | Parma | 11
+- Bowie | Sassuolo | 10
+- Dia | Lazio | 10
+- Lukaku | Napoli | 10
+- Ratkov | Lazio | 10
+
+### Buoni
+- Adams C. | Torino | 9
+- Cutrone | Monza | 9
+- David | Juventus | 9
+- Geubbels | Lecce | 9
+- Ghedjemis | Frosinone | 9
+- Dallinga | Bologna | 8
+- Piccoli | Fiorentina | 8
+- Rrahmani Al. | Venezia | 8
+- Vitinha O. | Genoa | 8
+- Yeboah J. | Venezia | 8
+- Bonny | Inter | 7
+- Raimondo | Frosinone | 7
+- Stulic | Lecce | 7
+- Zapata D. | Torino | 7
+- Boga | Juventus | 6
+- Gimenez | Milan | 6
+- Mutandwa | Cagliari | 6
+- Neres | Napoli | 6
+- Noslin | Lazio | 6
+- Sulemana K. | Atalanta | 6
+- Adorante | Venezia | 5
+- Camarda | Milan | 5
+- Frigan | Parma | 5
+- Maldini | Atalanta | 5
+- Mota | Monza | 5
+
+### Low-cost
+- Borrelli | Cagliari | 4
+- Giovane | Napoli | 4
+- Gueye | Udinese | 4
+- Havel | Genoa | 4
+- Kulenovic | Torino | 4
+- Kvernadze | Frosinone | 4
+- Mendy P. | Cagliari | 4
+- Morata | Como | 4
+- Robinson J. | Monza | 4
+- Ekhator | Juventus | 3
+- Elphege | Parma | 3
+- Kuhn | Como | 3
+- Lang | Napoli | 3
+- Lucca | Napoli | 3
+- N'Dri | Lecce | 3
+- Varela G. | Monza | 3
+- Buksa | Udinese | 2
+- Petagna | Monza | 2
+- Albarracin | Cagliari | 1
+- Azon | Como | 1
+- Bayo V. | Udinese | 1
+- Lauberbach | Venezia | 1
+- Lisman | Venezia | 1
+- Moro L. | Sassuolo | 1
+- Trepy | Cagliari | 1
+- Vaz | Roma | 1
